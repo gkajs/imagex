@@ -1,0 +1,10 @@
+node_modules
+docs
+.svn
+.git
+.DS_Store
+npm-debug.log
+TODO.md
+test
+/_lib
+package-lock.json 

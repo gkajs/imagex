@@ -1,5 +1,5 @@
 <p align="center">
-<a href ="https://github.com/gkajs/imagex"><img alt="gka" src="https://user-images.githubusercontent.com/10385585/29361168-e2f6003e-82b8-11e7-97e6-d0aaeffe4200.png"></a>
+<a href ="https://github.com/gkajs/imagex"><img alt="gka" src="https://user-images.githubusercontent.com/10385585/29361266-603625b0-82b9-11e7-9243-2d0cf405a579.png"></a>
 </p>
 
 # imagex

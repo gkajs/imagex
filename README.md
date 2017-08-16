@@ -1,3 +1,7 @@
+<p align="center">
+<a href ="https://github.com/gkajs/imagex"><img alt="gka" src="https://user-images.githubusercontent.com/10385585/29361168-e2f6003e-82b8-11e7-97e6-d0aaeffe4200.png"></a>
+</p>
+
 # imagex
 
 <a href="https://www.npmjs.org/package/imagex"><img src="https://img.shields.io/npm/v/imagex.svg?style=flat"></a>
